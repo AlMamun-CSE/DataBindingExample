@@ -63,6 +63,6 @@ Example: ```DataBinding3Activity```<br/><br/>
   Step 3: Create your recyclerview adapter class and item layout class. Set data & variable tag to the layout item class.<br/>
   Step 4: Set ```binding.recyclerView.setAdapter(adapter);``` to the Activity class <br/>
   That’s it.<br/>
-  Example: ```DataBinding4Activity```<br/><br/>
+  Example: ```DataBinding4Activity Android```<br/><br/>
 
 
